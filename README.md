@@ -9,7 +9,7 @@ The state-of-the-art in GAN-based Recommender System
 ## 2018
 * [Neural Memory Streaming Recommender Networks with Adversarial Training](https://www.kdd.org/kdd2018/accepted-papers/view/neural-memory-streaming-recommender-networks-with-adversarial-training) (SIGKDD)
 * [A Knowledge-Enhanced Deep Recommendation Framework Incorporating GAN-based Models](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20year/Yang_ICDM18final.pdf) (ICDM)
-* [Incorporating GAN for Negative Sampling in Knowledge Representation Learning])(https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16094/15907) (AAAI)
+* [Incorporating GAN for Negative Sampling in Knowledge Representation Learning](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16094/15907) (AAAI)
 * [PLASTIC Prioritize Long and Short-term Information in Top-n Recommendation using Adversarial Training](https://www.ijcai.org/proceedings/2018/0511.pdf) (IJCAI)
 * [RecGAN Recurrent Generative Adversarial Networks for Recommedation Systems](http://www.brianlim.net/wordpress/wp-content/uploads/2018/08/recsys2018-recgan-recommender.pdf) (RecSys)
 
