@@ -3,10 +3,10 @@ The state-of-the-art in GAN-based Recommender System
 
 ## 2017
 * [IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models](https://arxiv.org/pdf/1705.10513.pdf) (SIGIR)
-* [GraphGAN: Graph Representation Learning with Generative Adversarial Nets](https://arxiv.org/pdf/1711.08267.pdf) (AAAI)
 * [Energy-Based Sequence GANs for Recommendation and Their Connection to Imitation Learning](https://arxiv.org/pdf/1706.09200.pdf) (ACM Conference)
 
 ## 2018
+* [GraphGAN: Graph Representation Learning with Generative Adversarial Nets](https://arxiv.org/pdf/1711.08267.pdf) (AAAI)
 * [Neural Memory Streaming Recommender Networks with Adversarial Training](https://www.kdd.org/kdd2018/accepted-papers/view/neural-memory-streaming-recommender-networks-with-adversarial-training) (SIGKDD)
 * [A Knowledge-Enhanced Deep Recommendation Framework Incorporating GAN-based Models](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20year/Yang_ICDM18final.pdf) (ICDM)
 * [Incorporating GAN for Negative Sampling in Knowledge Representation Learning](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16094/15907) (AAAI)
