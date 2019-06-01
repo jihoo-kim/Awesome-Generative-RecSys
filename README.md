@@ -1,11 +1,12 @@
 # GAN-based-Recommender-System
 The state-of-the-art in GAN-based Recommender System
 
+## 2017
 * IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models (2017, SIGIR)
 * Energy-Based Sequence GANs for Recommendation and Their Connection to Imitation Learning (2017, ACM Conference)
 * TransNets Learning to Transform for Recommendation (2017, RecSys)
 * Visual Recommender System with Adversarial Generator-Encoder Network (2017)
-
+## 2018
 * Adversarial Personalized Ranking for Recommendation (2018, SIGIR)
 * Neural Memory Streaming Recommender Networks with Adversarial Training (2018, SIGKDD)
 * A Knowledge-Enhanced Deep Recommendation Framework Incorporating GAN-based Models (2018, ICDM)
