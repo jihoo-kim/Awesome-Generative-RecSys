@@ -7,11 +7,12 @@ The state-of-the-art in GAN-based Recommender System
 
 ## 2018
 * [GraphGAN: Graph Representation Learning with Generative Adversarial Nets](https://arxiv.org/pdf/1711.08267.pdf) (AAAI)
-* [Neural Memory Streaming Recommender Networks with Adversarial Training](https://www.kdd.org/kdd2018/accepted-papers/view/neural-memory-streaming-recommender-networks-with-adversarial-training) (SIGKDD)
-* [A Knowledge-Enhanced Deep Recommendation Framework Incorporating GAN-based Models](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20year/Yang_ICDM18final.pdf) (ICDM)
 * [Incorporating GAN for Negative Sampling in Knowledge Representation Learning](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16094/15907) (AAAI)
-* [PLASTIC Prioritize Long and Short-term Information in Top-n Recommendation using Adversarial Training](https://www.ijcai.org/proceedings/2018/0511.pdf) (IJCAI)
+* [Neural Memory Streaming Recommender Networks with Adversarial Training](https://www.kdd.org/kdd2018/accepted-papers/view/neural-memory-streaming-recommender-networks-with-adversarial-training) (SIGKDD)
 * [RecGAN Recurrent Generative Adversarial Networks for Recommedation Systems](http://www.brianlim.net/wordpress/wp-content/uploads/2018/08/recsys2018-recgan-recommender.pdf) (RecSys)
+* [A Knowledge-Enhanced Deep Recommendation Framework Incorporating GAN-based Models](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20year/Yang_ICDM18final.pdf) (ICDM)
+* [PLASTIC Prioritize Long and Short-term Information in Top-n Recommendation using Adversarial Training](https://www.ijcai.org/proceedings/2018/0511.pdf) (IJCAI)
+
 
 ## 2019
 * [Adversarial Point-of-Interest Recommendation](http://delivery.acm.org/10.1145/3320000/3313609/p3462-zhou.pdf?ip=166.104.144.128&id=3313609&acc=OPEN&key=0EC22F8658578FE1%2E3DD5647BAD8CE12F%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1559378059_874062267eb565c51b23458a98cfac09) (WWW)
