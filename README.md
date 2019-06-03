@@ -11,6 +11,7 @@ State-of-the-art Papers on GAN-based Recommender System (2017~2019) - designed b
 * [Neural Memory Streaming Recommender Networks with Adversarial Training](https://www.kdd.org/kdd2018/accepted-papers/view/neural-memory-streaming-recommender-networks-with-adversarial-training) (SIGKDD)
 * [RecGAN Recurrent Generative Adversarial Networks for Recommedation Systems](http://www.brianlim.net/wordpress/wp-content/uploads/2018/08/recsys2018-recgan-recommender.pdf) (RecSys)
 * [A Knowledge-Enhanced Deep Recommendation Framework Incorporating GAN-based Models](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20year/Yang_ICDM18final.pdf) (ICDM)
+* [CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks](https://dl.acm.org/citation.cfm?id=3271743) (CIKM)
 * [PLASTIC Prioritize Long and Short-term Information in Top-n Recommendation using Adversarial Training](https://www.ijcai.org/proceedings/2018/0511.pdf) (IJCAI)
 
 
