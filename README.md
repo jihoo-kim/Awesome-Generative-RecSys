@@ -1,5 +1,5 @@
 # GAN-based-Recommender-System
-The state-of-the-art in GAN-based Recommender System
+State-of-the-art Papers on GAN-based Recommender System - designed by **Jihoo Kim**
 
 ## 2017
 * [IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models](https://arxiv.org/pdf/1705.10513.pdf) (SIGIR)
