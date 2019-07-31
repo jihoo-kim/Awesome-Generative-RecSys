@@ -21,3 +21,4 @@ State-of-the-art Papers on GAN-based Recommender System (2017~2019) - designed b
 * [CnGAN: Generative Adversarial Networks for Cross-network user preference generation for non-overlapped users](https://dl.acm.org/citation.cfm?id=3308558.3313733) (WWW)
 * [RecSys-DAN: Discriminative Adversarial Networks for Cross-Domain Recommender Systems](https://arxiv.org/pdf/1903.10794.pdf) (TNNLS)
 * [Generative Adversarial User Model for Reinforcement Learning Based Recommendation System](http://proceedings.mlr.press/v97/chen19f/chen19f.pdf) (ICML)
+* [Enhancing Collaborative Filtering with Generative Augmentation](https://dl.acm.org/citation.cfm?id=3330873) (KDD)
