@@ -25,7 +25,7 @@ State-of-the-art Papers on GAN-based Recommender System (2017~2020) - designed b
 * [c+GAN: Complementary Fashion Item Recommendation](https://arxiv.org/pdf/1906.05596.pdf) (KDD)
 * [PD-GAN: Adversarial Learning for Personalized Diversity-Promoting Recommendation](https://www.ijcai.org/Proceedings/2019/0537.pdf) (IJCAI)
 * [DRCGR: Deep Reinforcement Learning Framework Incorporating CNN and GAN-Based for Interactive Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8970700) (ICDM)
-
+* [Generating Reliable Friends via Adversarial Training to Improve Social Recommendation](https://arxiv.org/pdf/1909.03529.pdf) (ICDM)
 
 ## 2020
 * [LARA: Attribute-to-feature Adversarial Learning for New-item Recommendation](https://dl.acm.org/doi/abs/10.1145/3336191.3371805) (WSDM)
