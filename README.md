@@ -1,5 +1,5 @@
 # GAN-based-Recommender-System
-State-of-the-art Papers on GAN-based Recommender System (2017~2019) - designed by **Jihoo Kim**
+State-of-the-art Papers on GAN-based Recommender System (2017~2020) - designed by **Jihoo Kim**
 
 ## 2017
 * [IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models](https://arxiv.org/pdf/1705.10513.pdf) (SIGIR)
@@ -22,3 +22,12 @@ State-of-the-art Papers on GAN-based Recommender System (2017~2019) - designed b
 * [RecSys-DAN: Discriminative Adversarial Networks for Cross-Domain Recommender Systems](https://arxiv.org/pdf/1903.10794.pdf) (TNNLS)
 * [Generative Adversarial User Model for Reinforcement Learning Based Recommendation System](http://proceedings.mlr.press/v97/chen19f/chen19f.pdf) (ICML)
 * [Enhancing Collaborative Filtering with Generative Augmentation](https://dl.acm.org/citation.cfm?id=3330873) (KDD)
+* [c+GAN: Complementary Fashion Item Recommendation](https://arxiv.org/pdf/1906.05596.pdf) (KDD)
+* [PD-GAN: Adversarial Learning for Personalized Diversity-Promoting Recommendation](https://www.ijcai.org/Proceedings/2019/0537.pdf) (IJCAI)
+* [DRCGR: Deep Reinforcement Learning Framework Incorporating CNN and GAN-Based for Interactive Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8970700) (ICDM)
+
+
+## 2020
+* [LARA: Attribute-to-feature Adversarial Learning for New-item Recommendation](https://dl.acm.org/doi/abs/10.1145/3336191.3371805) (WSDM)
+
+
