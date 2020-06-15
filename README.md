@@ -31,5 +31,5 @@ State-of-the-art Papers on GAN-based Recommender System (2017~2020) - designed b
 ## 2020
 * [LARA: Attribute-to-feature Adversarial Learning for New-item Recommendation](https://dl.acm.org/doi/abs/10.1145/3336191.3371805) (WSDM)
 * [Recommender Systems Based on Generative Adversarial Networks: A Problem-Driven Perspective](https://arxiv.org/pdf/2003.02474.pdf) (arXiv)
-* [AR-CF: Augmenting Virtual Users and Items in Collaborative Filtering for Addressing Cold-Start Problems] (SIGIR)
+* [AR-CF: Augmenting Virtual Users and Items in Collaborative Filtering for Addressing Cold-Start Problems](https://sigir.org/sigir2020/) (SIGIR)
 
